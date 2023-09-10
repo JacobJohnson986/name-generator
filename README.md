@@ -1,4 +1,4 @@
-# Starter Name Generator
+# Name Generator
 
 ## Installation
 
